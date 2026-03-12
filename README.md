@@ -7,16 +7,16 @@ The files uploaded contains data on the multiple assignments completed during al
 
 To understand the contents of the repository knowledge on the following is required
 
-Concepts of Data Analysis
-Excel
-Google Looker Studio
-IBM Cognos
-Python
-APIs
-HTML
-Beautiful Soup
-SQL
-Pandas
-Numpy arrays
-Jupyter Notebook
-Google Collab
+*Concepts of Data Analysis
+*Excel
+*Google Looker Studio
+*IBM Cognos
+*Python
+*APIs
+*HTML
+*Beautiful Soup
+*SQL
+*Pandas
+*Numpy arrays
+*Jupyter Notebook
+*Google Collab
