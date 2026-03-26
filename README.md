@@ -9,6 +9,7 @@ To understand the contents of the repository knowledge on the following is requi
 
 - >Concepts of Data Analysis
 - >Excel
+- >Power BI
 - >Google Looker Studio
 - >IBM Cognos
 - >Python
